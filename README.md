@@ -1,6 +1,6 @@
 # simon-game
 
-This project uses html, css, and javascript to create the famous game called [Simon](<https://en.wikipedia.org/wiki/Simon_(game)>). _jQuery_ framework is used in the process of creation.
+This project uses html, css, and javascript to create the famous game called [Simon](<https://en.wikipedia.org/wiki/Simon_(game)>). _jQuery_ library is used in the process of creation.
 
 ## Demo
 
